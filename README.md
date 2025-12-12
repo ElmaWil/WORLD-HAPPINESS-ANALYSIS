@@ -1,5 +1,5 @@
 # WORLD-HAPPINESS-ANALYSIS
-**BY Ezichi Williams John**
+**By Ezichi Williams John**
 
 ## Overview
 
