@@ -1,5 +1,5 @@
 # WORLD-HAPPINESS-ANALYSIS
-**BY Ezichi Williams JOhn**
+**BY Ezichi Williams John**
 
 ## Overview
 
@@ -10,7 +10,6 @@ This dashboard presents a detailed visualization of the World Happiness Report f
 The objective of this dashboard is to analyze global happiness indicators, compare regional performance, identify high- and low-performing areas, and highlight the major factors influencing happiness scores around the world.
 
 ## Key Metrics
-
 - Average Healthy Life Expectancy  
 - Total GDP per Capita  
 - Average Happiness Score  
