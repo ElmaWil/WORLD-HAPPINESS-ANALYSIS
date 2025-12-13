@@ -1,6 +1,8 @@
 # WORLD-HAPPINESS-ANALYSIS
 **By Ezichi Williams John**
 
+![World Happiness Dashboard](dashboard.png)
+
 ## Overview
 
 This dashboard presents a detailed visualization of the World Happiness Report from 2015 to 2019, covering 169 countries across 11 global regions. It highlights trends in happiness, life expectancy, GDP per capita, and regional differences to provide a clear understanding of global well-being patterns.
@@ -10,14 +12,14 @@ This dashboard presents a detailed visualization of the World Happiness Report f
 The objective of this dashboard is to analyze global happiness indicators, compare regional performance, identify high- and low-performing areas, and highlight the major factors influencing happiness scores around the world.
 
 ## Key Metrics
-- Average Healthy Life Expectancy  
+- Healthy Life Expectancy Index  
 - Total GDP per Capita  
 - Average Happiness Score  
-- Total Number of Regions  
-- Total Number of Countries  
-- Average Score per Region  
-- Average GDP per Capita  
-- Yearly Life Expectancy Trend  
+- Number of Regions  
+- Number of Countries  
+- Happiness Score by Country  
+- Happiness Score by Region  
+- Life Expectancy Trend Over Time  
 
 ## Insights and Findings
 
