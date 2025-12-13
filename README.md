@@ -1,7 +1,7 @@
 # WORLD-HAPPINESS-ANALYSIS
 **By Ezichi Williams John**
 
-![World Happiness Dashboard()
+![World Happiness Dashboard](dashboard.png)
 
 ## Overview
 
